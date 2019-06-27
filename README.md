@@ -6,6 +6,6 @@ next day's weather of Australia. It is an application of Machine Learning and th
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
 
 
